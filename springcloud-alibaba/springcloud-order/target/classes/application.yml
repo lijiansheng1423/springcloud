@@ -1,0 +1,25 @@
+server:
+  port: 8091
+spring:
+  application:
+    name: service-order
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/produect?characterEncoding=UTF-8&useUnicode=true&useSSL=false&serverTimezone=UTC
+    username: root
+    password: anjing123
+  jpa:
+    properties:
+      hibernate:
+        hbm2ddl:
+          auto: update
+          dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+
+service-produect:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+

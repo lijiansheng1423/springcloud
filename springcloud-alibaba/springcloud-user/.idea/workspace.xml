@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae1587ed-b4c9-4168-a105-35bc2151bddb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/src/main/java/com/itheima/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/src/main/java/com/itheima/controller/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/src/main/java/com/itheima/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/src/main/java/com/itheima/controller/ReetraneLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/src/main/java/com/itheima/controller/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/src/main/java/com/itheima/controller/TestBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/src/main/java/com/itheima/controller/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-common/src/main/java/com/itheima/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-common/src/main/java/com/itheima/entity/Produect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-common/src/main/java/com/itheima/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-order/src/main/java/com/itheima/OrderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-order/src/main/java/com/itheima/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-order/src/main/java/com/itheima/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-order/src/main/java/com/itheima/service/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-order/src/main/java/com/itheima/service/impl/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-order/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-produect/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-produect/src/main/java/com/itheima/ProduectApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-produect/src/main/java/com/itheima/controller/ProduectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-produect/src/main/java/com/itheima/dao/IProduectDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-produect/src/main/java/com/itheima/service/IProduectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-produect/src/main/java/com/itheima/service/impl/ProduectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-produect/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/UserNacosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/service/impl/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello-spring-cloud-alibaba-dependencies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello-spring-cloud-alibaba-dependencies/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hello-spring-cloud-alibaba-nacos-server/nacos-server-1.1.0/conf/application.properties.example" beforeDir="false" afterPath="$PROJECT_DIR$/../../hello-spring-cloud-alibaba-nacos-server/nacos-server-1.1.0/conf/application.properties.example" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="370" />
+    <option name="y" value="152" />
+    <option name="width" value="1493" />
+    <option name="height" value="890" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae1587ed-b4c9-4168-a105-35bc2151bddb" name="Default Changelist" comment="" />
+      <created>1583663493530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583663493530</updated>
+      <workItem from="1583663494958" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
